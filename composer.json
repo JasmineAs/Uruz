@@ -1,0 +1,9 @@
+{
+    "name": "migue/uruz",
+    "type": "project",
+    "require": {
+        "transbank/transbank-sdk": "^4.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
